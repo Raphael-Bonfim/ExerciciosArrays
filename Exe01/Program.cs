@@ -9,6 +9,40 @@ class Program
 {
     static void Main(string[] args)
     {
+        bool reiniciar = true;
+
+        while (reiniciar)
+        {
+            try
+            {
+                MontaArray();
+            }
+            catch (FormatException)
+            {
+                Console.Clear();
+                Console.WriteLine("Valor inválido. Digite um número inteiro.");
+                Thread.Sleep(2000);
+            }
+
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                throw;
+            }
+
+           if (reiniciar)
+            {
+                Console.Clear();
+                Console.WriteLine("Deseja reiniciar? (s/n)");
+                string escolha = Console.ReadLine()!.ToLower();
+
+                reiniciar = (escolha == "s"); 
+            }
+        }
+    }
+
+    static void MontaArray()
+    {
         Console.Clear();
 
         var array = new int[10];

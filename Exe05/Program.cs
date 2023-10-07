@@ -77,7 +77,7 @@ class Program
 
         for (int i = 0; i < array.Length; i++)
         {
-            if (array[i] <= 10)
+            if (i+1 <= 10)
                 somaDez = somaDez + array[i];
         }
 

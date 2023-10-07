@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rapha\\Source\\Repos\\ExerciciosArrays\\Exe02\\Exe02.csproj": {}
+    "C:\\Users\\rapha\\source\\repos\\ExerciciosArrays\\Exe03\\Exe03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rapha\\Source\\Repos\\ExerciciosArrays\\Exe02\\Exe02.csproj": {
+    "C:\\Users\\rapha\\source\\repos\\ExerciciosArrays\\Exe03\\Exe03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rapha\\Source\\Repos\\ExerciciosArrays\\Exe02\\Exe02.csproj",
-        "projectName": "Exe02",
-        "projectPath": "C:\\Users\\rapha\\Source\\Repos\\ExerciciosArrays\\Exe02\\Exe02.csproj",
+        "projectUniqueName": "C:\\Users\\rapha\\source\\repos\\ExerciciosArrays\\Exe03\\Exe03.csproj",
+        "projectName": "Exe03",
+        "projectPath": "C:\\Users\\rapha\\source\\repos\\ExerciciosArrays\\Exe03\\Exe03.csproj",
         "packagesPath": "C:\\Users\\rapha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rapha\\source\\repos\\ExerciciosArrays\\Exe02\\obj\\",
+        "outputPath": "C:\\Users\\rapha\\source\\repos\\ExerciciosArrays\\Exe03\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rapha\\AppData\\Roaming\\NuGet\\NuGet.Config",

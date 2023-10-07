@@ -1,0 +1,15 @@
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\bin\Debug\net7.0\Exe02.exe
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\bin\Debug\net7.0\Exe02.deps.json
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\bin\Debug\net7.0\Exe02.runtimeconfig.json
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\bin\Debug\net7.0\Exe02.dll
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\bin\Debug\net7.0\Exe02.pdb
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\obj\Debug\net7.0\Exe02.csproj.AssemblyReference.cache
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\obj\Debug\net7.0\Exe02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\obj\Debug\net7.0\Exe02.AssemblyInfoInputs.cache
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\obj\Debug\net7.0\Exe02.AssemblyInfo.cs
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\obj\Debug\net7.0\Exe02.csproj.CoreCompileInputs.cache
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\obj\Debug\net7.0\Exe02.dll
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\obj\Debug\net7.0\refint\Exe02.dll
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\obj\Debug\net7.0\Exe02.pdb
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\obj\Debug\net7.0\Exe02.genruntimeconfig.cache
+C:\Users\rapha\source\repos\ExerciciosArrays\Exe02\obj\Debug\net7.0\ref\Exe02.dll

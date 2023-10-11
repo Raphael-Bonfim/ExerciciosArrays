@@ -21,7 +21,6 @@ class Program
             {
                 Console.Clear();
                 Console.WriteLine("Valor inválido. Digite um número inteiro.");
-                Thread.Sleep(2000);
             }
 
             catch (Exception ex)
@@ -29,14 +28,16 @@ class Program
                 Console.WriteLine(ex.Message);
                 throw;
             }
-
-           if (reiniciar)
+            finally
             {
-                Console.Clear();
-                Console.WriteLine("Deseja reiniciar? (s/n)");
-                string escolha = Console.ReadLine()!.ToLower();
+                if (reiniciar)
+                {
+                    Console.WriteLine("");
+                    Console.WriteLine("Deseja reiniciar? (s/n)");
+                    string escolha = Console.ReadLine()!.ToLower();
 
-                reiniciar = (escolha == "s"); 
+                    reiniciar = (escolha == "s");
+                }
             }
         }
     }
@@ -49,14 +50,12 @@ class Program
 
         for (int i = 0; i < array.Length; i++)
         {
+            Console.WriteLine("Ler dez elementos de uma matriz unidimensional do tipo inteiro e apresentar os valores\r\nlidos");
+            Console.WriteLine();
             Console.Write($"Digite 10 numeros inteiros [{i + 1}] = ");
 
-            array[i] = int.Parse(Console.ReadLine()!);
-            Console.Clear();
+            array[i] = int.Parse(Console.ReadLine()!);   
 
-            Console.WriteLine($"Numero digitado: {array[i]}");
-
-            Thread.Sleep(600);
             Console.Clear();
         }
 

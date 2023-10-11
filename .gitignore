@@ -34,3 +34,11 @@
 /Exe01/obj/Debug/net7.0/Exe01.GeneratedMSBuildEditorConfig.editorconfig
 /Exe01/obj/Debug/net7.0/Exe01.genruntimeconfig.cache
 /Exe01/obj/Debug/net7.0/Exe01.pdb
+*.vsidx
+/Exe01/.vs/Exe01/DesignTimeBuild/.dtbcache.v2
+/Exe01/.vs/Exe01/FileContentIndex/c995094e-fb36-4333-8f35-894e351e1009.vsidx
+/Exe01/.vs/Exe01/FileContentIndex/eb9e47c6-d575-40c5-8025-ca620f9d48e5.vsidx
+/Exe01/.vs/Exe01/v17/.suo
+/Exe01/obj/Exe01.csproj.nuget.dgspec.json
+/Exe01/obj/project.nuget.cache
+/Exe04/.vs/Exe04/FileContentIndex/98b4b6cc-957a-46e1-a508-e841ee08c7c8.vsidx
